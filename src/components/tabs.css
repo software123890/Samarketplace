@@ -1,0 +1,21 @@
+.newProductBtn {
+  margin-left: auto;
+}
+.tabs {
+  background-color: #4d5058;
+  border-radius: 10px;
+  padding: 10px 20px !important;
+}
+.tabs .nav-link {
+  color: #fff;
+  font-weight: 500;
+  border-bottom: 2px solid transparent !important;
+}
+.tabs .nav-link:hover {
+  border-bottom: 2px solid #ffbe6a !important;
+  color: #fff;
+  border-radius: unset;
+}
+/* .sectionMain .row:nth-child(1) .col {
+  padding: 0 !important;
+} */

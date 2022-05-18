@@ -1,0 +1,22 @@
+.addNewProductBtn {
+  width: 300px !important;
+  align-self: center;
+  background-color: #26272e !important;
+  border-width: 2px;
+  color: #ffbe6a !important;
+  font-size: 20px;
+  border-color: #ffbe6a !important;
+  padding: 10px !important;
+  border-radius: 5px !important;
+}
+.addNewProductBtn:hover {
+  width: 300px !important;
+  align-self: center;
+  background-color: #26272e !important;
+  border-width: 2px;
+  color: #ffbe6a !important;
+  font-size: 20px;
+  border-color: #ffbe6a !important;
+  padding: 10px !important;
+  border-radius: 5px !important;
+}
