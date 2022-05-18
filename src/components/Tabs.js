@@ -7,7 +7,7 @@ const Tabs = () => {
   return (
     <Nav variant="pills" className="tabs">
       <Nav.Item>
-        <Nav.Link href="/home">Bot1</Nav.Link>
+        <Nav.Link href="/home">NFT</Nav.Link>
       </Nav.Item>
       <Nav.Item>
         <Nav.Link eventKey="link-1">Bot2</Nav.Link>
